@@ -1,4 +1,4 @@
-windows.addEventListener("deviceorientation", on_device_orientation);
+window.addEventListener("deviceorientation", on_device_orientation);
 
 function on_device_orientation(evt)
 {
